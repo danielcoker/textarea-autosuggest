@@ -2,5 +2,5 @@
 Auto-suggest as user types in text-area.
 
 
-## Dependencies
+### Dependencies
 - Jquery

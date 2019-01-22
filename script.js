@@ -107,6 +107,7 @@ $('#autosuggest').keydown(function(event) {
     }
 });
 
+// When suggestions are clicked, replace text.
 $(document).on('click', '.suggestions a', function(event) {
     text = $(this).text();
     replaceText(text);
